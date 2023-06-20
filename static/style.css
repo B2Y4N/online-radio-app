@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(211, 211, 211);
+}
+.heading
+{
+    margin: 0;
+    padding: 1rem 1rem 1rem 2rem;
+    /* background-color: rgb(49, 46, 42);
+    color: rgb(255, 207, 149); */
+}
+.heading-mark{
+    color: rgb(26,23,64);
+    font-weight: bold;
+    padding: 3px;
+}
+thead{
+    background-color: rgb(26,23,64);
+    color: white;
+}
+.btn-custom{
+    background-color: rgb(26,23,64);
+}
+.table_link{
+    text-decoration: none;
+}
+.table_pic{
+    max-width: 50px;
+    max-height: 50px;
+}
