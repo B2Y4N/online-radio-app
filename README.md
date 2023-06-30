@@ -1,5 +1,5 @@
 # Online Radio App
-Final Year Project for "Online Radio App Using Socket Programming"
+Final Year Project for "Online Radio App Using Socket Programming" by Bryan Chew Zen Ik from UTAR
 
 A simple WebRTC video and audio radio room with signaling server made using Python's Flask framework.
 
